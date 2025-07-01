@@ -1,1 +1,2 @@
 This is my first text file inside this learn_git folder.
+I am adding one more line to this which is second line.
